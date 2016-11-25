@@ -14,4 +14,5 @@ android和各种支持互动屏保的电视盒子制作屏保效果
 #实现效果
 如果要想实现“DayDream”互动屏保，首先你的设备要支持自定义互动屏保设置，在你安装完以后要能够在你的设备上看到
 自定义的保如下图所示，其具体效果，大家可以克隆项目：
+ ![Image text](https://raw.githubusercontent.com/youguyilin/ScreenSaver/master/images/aa.jpg)
     
